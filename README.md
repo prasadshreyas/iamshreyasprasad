@@ -4,10 +4,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.shreyasprasad.com/images/logo.png" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
+[<img align="left" alt="_shreyasprasad | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
+[<img align="left" alt="-shreyas-prasad | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.shreyasprasad.com/images/logo.png" />][website]
+-->
 <br />
 
 ### Languages and Tools:
