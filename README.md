@@ -5,9 +5,10 @@
 ### Connect with me:
 
 
-[<img align="left" alt="_shreyasprasad | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
-[<img align="left" alt="-shreyas-prasad | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.shreyasprasad.com/images/logo.png" />][website]
+
+[<img align="left" alt="-shreyas-prasad | LinkedIn" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="_shreyasprasad | Twitter" width="25px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
+<!--[<img align="left" alt="codeSTACKr.com" width="25px" src="https://www.shreyasprasad.com/images/logo.png" />][website]
 -->
 <br />
 
@@ -20,6 +21,10 @@
 <img align="left" alt="Keras" width="26px" src="https://media-exp1.licdn.com/dms/image/C560BAQG2-bElRVrSqw/company-logo_200_200/0/1547450366259?e=2159024400&v=beta&t=OpI315QOVOkFjDgZPAGF_Kw7N490Y6bkILBCrjliQUQ" />
 <img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/528/528260.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
+<img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />
+<img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />
+<img align="left" alt="GCP" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-2038785-1721675.png" />
+
 
 <br />
 <br />
