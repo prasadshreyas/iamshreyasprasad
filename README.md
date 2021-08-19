@@ -22,7 +22,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/528/528260.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
 <img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />
-<img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />
 <img align="left" alt="GCP" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-2038785-1721675.png" />
 
 
