@@ -12,7 +12,7 @@
 -->
 <br />
 
-### Languages and Tools:
+### Tools, Languages and Libraries:
 
 <img align="left" alt="Python" width="26px" src="https://img-premium.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1629376481~hmac=85991ff49b22a95feb78f6532e711e9c" />
 <img align="left" alt="R" width="26px" src="https://image.flaticon.com/icons/png/512/2103/2103694.png" />
