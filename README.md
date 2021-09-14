@@ -1,11 +1,11 @@
 # Hi there, I'm Shreyas Prasad  👋
 
-<br >
+<br>
 
-#### Information Systems, NU | Boston, MA 
-#### Information Science Engineering, BMSCE | Bangalore, KA
+#### Master of Science in Information Systems, NU | Boston, MA | '23
+#### Bachelor of Engineering in Information Science, BMSCE | Bangalore, KA | '21
 
-< br >
+<br>
 
 ### Tools, Languages and Libraries:
 
