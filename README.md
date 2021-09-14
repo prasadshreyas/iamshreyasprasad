@@ -1,9 +1,12 @@
 # Hi there, I'm Shreyas Prasad  👋
-<br />
+
+<br >
+
 #### Information Systems, NU | Boston, MA 
 #### Information Science Engineering, BMSCE | Bangalore, KA
 
-<br />
+< br >
+
 ### Tools, Languages and Libraries:
 
 <img align="left" alt="Python" width="26px" src="https://image.flaticon.com/icons/png/512/1822/1822921.png" />
