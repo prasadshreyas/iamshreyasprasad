@@ -19,6 +19,8 @@
 <img align="left" alt="Hadoop" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png" />
 <img align="left" alt="GCP" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-2038785-1721675.png" />
 
+<br>
+<br>  
 
 ### Connect with me:
 
