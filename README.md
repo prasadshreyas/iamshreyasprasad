@@ -1,5 +1,6 @@
-### Hi there, I'm Shreyas Prasad  👋
-## Information Science Engineering, BMSCE
+# Hi there, I'm Shreyas Prasad  👋
+#### Information Systems, NU | Boston, MA 
+#### Information Science Engineering, BMSCE | Bangalore, KA
 
 
 ### Connect with me:
