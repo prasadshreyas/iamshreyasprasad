@@ -2,8 +2,8 @@
 
 <br>
 
-#### Master of Science in Information Systems, NU | Boston, MA | '23
-#### Bachelor of Engineering in Information Science, BMSCE | Bangalore, KA | '21
+#### Grad @ NU - IS | Boston, MA | '23
+#### Undergrad @ BMS - ISE | Bangalore, KA | '21
 
 <br>
 
