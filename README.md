@@ -2,8 +2,8 @@
 
 <br>
 
-Grad @ NU - IS | Boston, MA | '23
-Undergrad @ BMS - ISE | Bangalore, KA | '21
+Grad @ NU - Boston, MA '23
+Undergrad @ BMS - Bangalore, KA '21
 
 
 
