@@ -2,7 +2,7 @@
 
 <br>
 
-Grad @ NU - Boston, MA '23
+Grad @ NU - Boston, MA '23 | 
 Undergrad @ BMS - Bangalore, KA '21
 
 
